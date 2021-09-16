@@ -4,7 +4,7 @@ import time
 
 # define address & buffer size
 HOST = '127.0.0.1'
-PORT = 8001 
+PORT = 8001
 BUFFER_SIZE = 1024
 
 def main():
